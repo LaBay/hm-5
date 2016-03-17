@@ -183,4 +183,5 @@ form button{
 
 form button:hover{
 	opacity: 0.92;
+	cursor: pointer;
 }
