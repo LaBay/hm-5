@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding:0;
+}
+
+table{
+	border-collapse: collapse;
+	border: none;
+}
+
+tr{
+	height:72px;
+	border: 8px solid black;
+}
+
+td{
+	width: 62px;
+	border: 8px solid black;
+}
+
+.tight td{
+	height: 25px;
+}
+
+.white{
+	background-color: white;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.red{
+	background-color: red;
+}
+
+.black{
+	background-color: black;
+}
+
+.blue{
+	background-color: blue;
+}
